@@ -1,5 +1,4 @@
 # content of .gitignore
-# content of .gitignore
 /.idea/*
 *.iml
 .gradle
@@ -10,4 +9,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-
